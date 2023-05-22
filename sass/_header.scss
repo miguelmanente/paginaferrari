@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    background: yellow;
+    margin:10px;
+    border-radius: 20px 0px 20px 0px;
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: red;
+    }
+    img{
+        border-radius:20px 20px 20px 20px ;
+    }
+}
+    
